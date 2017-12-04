@@ -1,3 +1,3 @@
 # Think-Python
-Exercises from the Think-Python book.
-以前写过的<<Think-Python>>上的一些习题。
+Exercises from the Think-Python book.\n
+以前写过的《Think-Python》上的一些习题。
